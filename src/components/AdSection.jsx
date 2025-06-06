@@ -21,12 +21,12 @@ function AdSection() {
           transition={{ delay: 1, duration: 1 }}
           className="text-lg md:text-xl text-gray-300"
         >
-          Whether you're heading to{" "}
+          Regardless of your destination; {" "}
           <span className="font-semibold text-yellow-300">Mombasa</span>,{" "}
           <span className="font-semibold text-yellow-300">Nairobi</span>, or{" "}
-          <span className="font-semibold text-yellow-300">Kisumu</span>, we
-          offer reliable, scheduled services designed for comfort, safety, and
-          effortless booking.
+          <span className="font-semibold text-yellow-300">Kisumu</span>,
+          —we provide dependable, scheduled services
+          that are easy to book and built for luxury and safety.
         </motion.p>
 
         <motion.p
